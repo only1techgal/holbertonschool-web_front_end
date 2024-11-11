@@ -11,22 +11,14 @@ html {
     scroll-behavior: smooth;
 }
 
-body {
+body, a{
     color: var(--text-color);
-}
-
-a {
-    color: var(--text-color);;
 }
 
 .visually-hidden {
     display: none;
 }
 
-.card-category {
-    color: var(--color-primary);
-}
-
-    .section-tagline {
+.card-category, .section-tagline{
     color: var(--color-primary);
 }
