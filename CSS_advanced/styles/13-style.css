@@ -60,7 +60,7 @@ a {
     text-decoration: none;
 }
 
-a[href] { /* Targets only anchor elements with href attribute */
+a link { /* Targets only anchor elements with href attribute */
     color: var(--text-color); /* Ensure color is set */
 }
 
