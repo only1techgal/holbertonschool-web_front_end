@@ -28,9 +28,6 @@ html {
     --line-height-small: 1.2;
     --line-height-base: 1.5;
     --line-height-big: 1.8;
-
-    /*New custom property for section header alignment */
-    --section-header-align: center;
 }
 
 body {
