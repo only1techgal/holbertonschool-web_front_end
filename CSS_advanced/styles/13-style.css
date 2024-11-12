@@ -60,20 +60,20 @@ a {
     text-decoration: none;
 }
 
-a link { /* Targets only anchor elements with href attribute */
-    color: var(--text-color); /* Ensure color is set */
+a link {
+    color: var(--text-color);
 }
 
-a:visited { /* Targets the visited state of the link */
-    font-style: italic; /* Italicize the text */
+a:visited {
+    font-style: italic;
 }
 
-a:hover { /* Targets the hover state of the link */
-    text-decoration: underline; /* Add underline on hover */
+a:hover {
+    text-decoration: underline;
 }
 
-a:active { /* Targets the active state of the link */
-    background-color: var(--color-light-grey); /* Set background to light grey */
+a:active {
+    background-color: var(--color-light-grey);
 }
 
 .card-category {
