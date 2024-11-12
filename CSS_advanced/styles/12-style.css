@@ -39,7 +39,7 @@ html {
     --section-title-margin: 0;
 
     /* New custom property for section title color */
-    --section-title-color: color-black;
+    --section-title-color: var(--color-black);
 }
 
 body {
