@@ -243,7 +243,3 @@ ul.row {
 .footer {
     padding: var(--footer-padding);
 }
-
-.footer-address {
-    color: var(--text-color);
-}
