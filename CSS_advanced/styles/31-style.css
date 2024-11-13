@@ -105,8 +105,8 @@ html {
     --header-logo-link-left: 0;
 
     --color-primary: #d73953;
---font-size-large: 1.8rem;
---section-padding: 5rem 0;
+    --font-size-large: 1.8rem;
+    --section-padding: 5rem 0;
 
 }
 
@@ -368,8 +368,6 @@ a:active {
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
-    color: var(--color-white);
-    background-color: var(--color-primary);
 }
 
 .section-tagline {
